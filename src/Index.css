@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./component/Git_emergency.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px;
+    padding-bottom: 400px;
+}
